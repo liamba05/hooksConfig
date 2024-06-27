@@ -1,0 +1,7 @@
+{
+    "files": {
+      "restricted_file_example.txt": ["authorizedUser1","authorizedUser2"],
+      "restricted_folder_example/*": ["authorizedUser3","authorizedUser4"]
+    },
+    "disallowed_issue_states": ["Closed", "Resolved", "Done"]
+  }
