@@ -1,8 +1,8 @@
 {
     "files": {
-      "restricted_file_example.txt": ["authorizedUser1","authorizedUser2"],
-      "restricted_folder_example/*": ["authorizedUser3","authorizedUser4"]
+      "restricted_file_example.txt": ["Wincom"],
+      "restricted_folder_example/*": ["Wincom Security"]
     },
     "disallowed_issue_states": ["Closed", "Resolved", "Done"],
-    "git_token": "token goes here"
+    "git_token": "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"
   }
