@@ -3,6 +3,5 @@
       "restricted_file_example.txt": ["Wincom"],
       "restricted_folder_example/*": ["Wincom Security"]
     },
-    "disallowed_issue_states": ["Closed", "Resolved", "Done"],
-    "git_token": "test"
+    "disallowed_issue_states": ["Closed", "Resolved", "Done"]
   }
