@@ -1,7 +1,7 @@
 {
     "files": {
-      "restricted_file_example.txt": ["Wincom"],
-      "restricted_folder_example/*": ["Wincom Security"]
+      "restricted_file_example.txt": ["file"],
+      "restricted_directory_example": ["directory"]
     },
     "disallowed_issue_states": ["Closed", "Resolved", "Done"]
   }
