@@ -1,7 +1,7 @@
 {
     "files": {
-      "restricted_file_example.txt": ["file"],
-      "restricted_directory_example": ["directory"]
+      "restricted_file_example.txt": ["authorized user"],
+      "restricted_directory_example": ["authorized user2"]
     },
     "disallowed_issue_states": ["Closed", "Resolved", "Done"]
   }
